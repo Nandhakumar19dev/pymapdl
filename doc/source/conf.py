@@ -190,6 +190,9 @@ html_theme_options = {
     ],
 }
 
+
+html_sidebars = {"sidebar": ["sidebar-nav-bs.html", "searchbox.html"]}
+
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
